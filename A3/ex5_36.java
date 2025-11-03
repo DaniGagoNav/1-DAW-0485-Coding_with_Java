@@ -1,3 +1,5 @@
+public class ex5_36{
+public static void main (String[] args){
 int[][] matriu = {
             {1,2,3},
             {4,5,6},
@@ -17,3 +19,5 @@ int[][] matriu = {
             System.out.println();
             fila++;
         }
+}
+}
