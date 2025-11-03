@@ -1,4 +1,4 @@
-public class ex5_35{
+public class ex5_34{
 public static void main (String[] args){
 int[][] matriu = {
             {1,2,3},
