@@ -1,3 +1,5 @@
+public class ex5_35{
+public static void main (String[] args){
 int[][] matriu = {
             {1,2,3,4},
             {5,6,7,8},
@@ -9,3 +11,5 @@ int[][] matriu = {
             System.out.println("Diagonal[" + i + "][" + i + "] = " + matriu[i][i]);
             i++;
         }
+}
+}
