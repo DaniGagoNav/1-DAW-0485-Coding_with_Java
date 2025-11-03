@@ -1,3 +1,5 @@
+public class ex5_35{
+public static void main (String[] args){
 int[][] matriu = {
             {1,2,3},
             {4,5,6},
@@ -19,3 +21,5 @@ int[][] matriu = {
             fila++;
         }
         if (!trobat) System.out.println(num + " no trobat.");
+}
+}
